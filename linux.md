@@ -14,3 +14,7 @@
 -   `rm -r ime_mape` - Izbriše mapo z imenom `ime_mape` in vsemi datotekami v njej
 -   `pwd` - Izpiše trenutno lokacijo
 -   `cd` - Premakne se v domačo mapo
+-   `man ime_komande` - Izpiše pomoč za določeno komando z možnostjo premikanja z puščicami
+-   `ls` - Izpiše vse datoteke in mape v trenutni mapi
+-   `ls -a` - Izpiše vse datoteke in mape v trenutni mapi, tudi skrite
+-   `ls -l` - Izpiše vse datoteke in mape v trenutni mapi, tudi skrite, z dodatnimi informacijami

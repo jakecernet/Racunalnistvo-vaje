@@ -16,7 +16,7 @@
 -   `cd /` - Spremeni trenutno mapo na korensko mapo
 -   `cd ~` - Spremeni trenutno mapo na domačo mapo
 -   `tree` - Izpiše drevo vseh datotek in map v trenutni mapi
--   `mkdir ime_mape` ali `md ime_mape` - Ustvari mapo z imenom ime_mape
+-   `mkdir ime_mape` - Ustvari mapo z imenom ime_mape
 -   `rmdir ime_mape` - Izbriše mapo z imenom ime_mape, če je prazna
 -   `rmdir /s ime_mape` - Izbriše mapo z imenom ime_mape, tudi če ni prazna
 -   `del ime_datoteke` - Izbriše datoteko z imenom ime_datoteke
