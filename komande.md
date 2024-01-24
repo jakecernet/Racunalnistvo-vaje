@@ -6,6 +6,10 @@
 -   `exit` - Zapre konzolo
 -   `help` - Izpiše vse komande
 -   `help ime_komande` - Izpiše pomoč za določeno komando
+-   `tasklist` - Izpiše vse procese
+-   `taskkill /pid pid_procesa` - Ustavi proces z določenim pid-om
+-   `taskkill /im ime_procesa` - Ustavi proces z določenim imenom
+-   `taskkill /f /im ime_procesa` - Ustavi proces z določenim imenom, tudi če se ne odziva
 
 ## Komande za delo z datotekami
 
